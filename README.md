@@ -34,9 +34,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilihas)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilihas&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sahilihas)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilihas&show_icons=true)   
 
 ![GitHub metrics](https://metrics.lecoq.io/sahilihas)  
 
