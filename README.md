@@ -1,4 +1,4 @@
-<h1 align="center">Hey Guys 👋, Harsh tripathi here</h1>
+<h1 align="center">Hey Guys 👋, Harsh Tripathi here</h1>
 <h3 align="center">Code Eat Sleep Repeat</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SahilihaS&label=Profile%20views&color=0e75b6&style=flat" alt="SahiihaS" /> </p>
